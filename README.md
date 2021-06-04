@@ -1,4 +1,5 @@
 # QuGreen: Computing Spectral Functions using Quantum Computing
+## Spectral Functions with Qiskit
 
 The Spectral Function is a central quantity in the study of quantum many-body systems, but it can be hard to compute. Novel methods, taking advantage of the power of quantum computers, can do this calculation more efficiently. 
 
@@ -9,7 +10,7 @@ This package combines different techniques to calculate the Spectral Function of
 This package consists of a Class `QuGreen` with several helpful methods (shown in `Tutorial.ipynb`). These methods call other functions, which can be found in the `qgfunctions` folder.
 
 
-# Installation
+## Installation
 
 To use this package, create an Anaconda environment (just for safety):
 
@@ -29,6 +30,8 @@ If you wish to use method `SL0`, also run
 pip install pyCSalgos
 ```
 
-# How-To
+## How-To
 
 Check notebook `Tutorial.ipynb` for a simple tutorial.
+
+## References
