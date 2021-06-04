@@ -35,3 +35,7 @@ pip install pyCSalgos
 Check notebook `Tutorial.ipynb` for a simple tutorial.
 
 ## References
+[1] Kreula, J. M., et al.  Few-qubit quantum-classical simulation of strongly correlated lattice fermions. EPJ Quantum Technology (2016).
+[2] Rungger, I., et al. Dynamical mean field theory algorithm and experiment on quantum computers. arXiv:1910.04735 (2020).
+[3] Wecker, D., et al.  Solving strongly correlated electron models on a quantum computer. Phys. Rev. A (2015).
+[4] Bauer, B., et al.  Hybrid Quantum-Classical Approach to Correlated Materials. Phys. Rev. X (2016).
